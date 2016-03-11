@@ -1,0 +1,304 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LoginViewController"
+provides-nominal:
+- "C11Find_Me_App19LoginViewController"
+provides-member:
+- ["C11Find_Me_App19LoginViewController", ""]
+provides-dynamic-lookup:
+- "listTableView"
+- "feedItems"
+- "btnIniciarSesionLogin"
+- "txtEmail"
+- "didReceiveMemoryWarning"
+- "users"
+- "viewDidLoad"
+- "txtPassword"
+- "pruebaconeccion"
+depends-top-level:
+- "UITableView"
+- "UIButton"
+- "NSArray"
+- "UITextField"
+- "LoginViewController"
+- "UIViewController"
+- "UsersModel"
+depends-member:
+- ["PSs9AnyObject", "NSArray"]
+- ["PSs9AnyObject", "UsersModel"]
+- ["PSs9AnyObject", "btnIniciarSesionLogin"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "feedItems"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "listTableView"]
+- ["PSs9AnyObject", "pruebaconeccion"]
+- ["PSs9AnyObject", "txtEmail"]
+- ["PSs9AnyObject", "txtPassword"]
+- ["PSs9AnyObject", "users"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- ["PSs23ArrayLiteralConvertible", "init"]
+- ["PSs11CVarArgType", "NSArray"]
+- ["PSs11CVarArgType", "UsersModel"]
+- ["PSs11CVarArgType", "btnIniciarSesionLogin"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "feedItems"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "listTableView"]
+- ["PSs11CVarArgType", "pruebaconeccion"]
+- ["PSs11CVarArgType", "txtEmail"]
+- ["PSs11CVarArgType", "txtPassword"]
+- ["PSs11CVarArgType", "users"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "NSArray"]
+- ["PSs23CustomStringConvertible", "UsersModel"]
+- ["PSs23CustomStringConvertible", "btnIniciarSesionLogin"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "feedItems"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "listTableView"]
+- ["PSs23CustomStringConvertible", "pruebaconeccion"]
+- ["PSs23CustomStringConvertible", "txtEmail"]
+- ["PSs23CustomStringConvertible", "txtPassword"]
+- ["PSs23CustomStringConvertible", "users"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "NSArray"]
+- ["PSs9Equatable", "UsersModel"]
+- ["PSs9Equatable", "btnIniciarSesionLogin"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "feedItems"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "listTableView"]
+- ["PSs9Equatable", "pruebaconeccion"]
+- ["PSs9Equatable", "txtEmail"]
+- ["PSs9Equatable", "txtPassword"]
+- ["PSs9Equatable", "users"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "NSArray"]
+- ["PSs8Hashable", "UsersModel"]
+- ["PSs8Hashable", "btnIniciarSesionLogin"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "feedItems"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "listTableView"]
+- ["PSs8Hashable", "pruebaconeccion"]
+- ["PSs8Hashable", "txtEmail"]
+- ["PSs8Hashable", "txtPassword"]
+- ["PSs8Hashable", "users"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- ["C11Find_Me_App19LoginViewController", "NSArray"]
+- ["C11Find_Me_App19LoginViewController", "UIButton"]
+- ["C11Find_Me_App19LoginViewController", "UITableView"]
+- ["C11Find_Me_App19LoginViewController", "UITextField"]
+- ["C11Find_Me_App19LoginViewController", "UsersModel"]
+- ["C11Find_Me_App19LoginViewController", "btnIniciarSesionLogin"]
+- ["C11Find_Me_App19LoginViewController", "deinit"]
+- ["C11Find_Me_App19LoginViewController", "didReceiveMemoryWarning"]
+- ["C11Find_Me_App19LoginViewController", "feedItems"]
+- ["C11Find_Me_App19LoginViewController", "init"]
+- ["C11Find_Me_App19LoginViewController", "listTableView"]
+- ["C11Find_Me_App19LoginViewController", "pruebaconeccion"]
+- ["C11Find_Me_App19LoginViewController", "txtEmail"]
+- ["C11Find_Me_App19LoginViewController", "txtPassword"]
+- ["C11Find_Me_App19LoginViewController", "users"]
+- ["C11Find_Me_App19LoginViewController", "viewDidLoad"]
+- ["CSo7NSArray", "init"]
+- ["PSo8NSCoding", "NSArray"]
+- ["PSo8NSCoding", "UsersModel"]
+- ["PSo8NSCoding", "btnIniciarSesionLogin"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "feedItems"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "listTableView"]
+- ["PSo8NSCoding", "pruebaconeccion"]
+- ["PSo8NSCoding", "txtEmail"]
+- ["PSo8NSCoding", "txtPassword"]
+- ["PSo8NSCoding", "users"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "init"]
+- ["PSo26NSExtensionRequestHandling", "NSArray"]
+- ["PSo26NSExtensionRequestHandling", "UsersModel"]
+- ["PSo26NSExtensionRequestHandling", "btnIniciarSesionLogin"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "feedItems"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "listTableView"]
+- ["PSo26NSExtensionRequestHandling", "pruebaconeccion"]
+- ["PSo26NSExtensionRequestHandling", "txtEmail"]
+- ["PSo26NSExtensionRequestHandling", "txtPassword"]
+- ["PSo26NSExtensionRequestHandling", "users"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["PSo17NSFastEnumeration", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "NSArray"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UITableView"]
+- ["CSo8NSObject", "UITextField"]
+- ["CSo8NSObject", "UsersModel"]
+- ["CSo8NSObject", "btnIniciarSesionLogin"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "feedItems"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "listTableView"]
+- ["CSo8NSObject", "pruebaconeccion"]
+- ["CSo8NSObject", "txtEmail"]
+- ["CSo8NSObject", "txtPassword"]
+- ["CSo8NSObject", "users"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "NSArray"]
+- ["PSo16NSObjectProtocol", "UsersModel"]
+- ["PSo16NSObjectProtocol", "btnIniciarSesionLogin"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "feedItems"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "listTableView"]
+- ["PSo16NSObjectProtocol", "pruebaconeccion"]
+- ["PSo16NSObjectProtocol", "txtEmail"]
+- ["PSo16NSObjectProtocol", "txtPassword"]
+- ["PSo16NSObjectProtocol", "users"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- ["PSs12SequenceType", "init"]
+- ["PSo21UIAppearanceContainer", "NSArray"]
+- ["PSo21UIAppearanceContainer", "UsersModel"]
+- ["PSo21UIAppearanceContainer", "btnIniciarSesionLogin"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "feedItems"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "listTableView"]
+- ["PSo21UIAppearanceContainer", "pruebaconeccion"]
+- ["PSo21UIAppearanceContainer", "txtEmail"]
+- ["PSo21UIAppearanceContainer", "txtPassword"]
+- ["PSo21UIAppearanceContainer", "users"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "NSArray"]
+- ["PSo18UIContentContainer", "UsersModel"]
+- ["PSo18UIContentContainer", "btnIniciarSesionLogin"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "feedItems"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "listTableView"]
+- ["PSo18UIContentContainer", "pruebaconeccion"]
+- ["PSo18UIContentContainer", "txtEmail"]
+- ["PSo18UIContentContainer", "txtPassword"]
+- ["PSo18UIContentContainer", "users"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "NSArray"]
+- ["PSo18UIFocusEnvironment", "UsersModel"]
+- ["PSo18UIFocusEnvironment", "btnIniciarSesionLogin"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "feedItems"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "listTableView"]
+- ["PSo18UIFocusEnvironment", "pruebaconeccion"]
+- ["PSo18UIFocusEnvironment", "txtEmail"]
+- ["PSo18UIFocusEnvironment", "txtPassword"]
+- ["PSo18UIFocusEnvironment", "users"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "NSArray"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UITableView"]
+- ["CSo11UIResponder", "UITextField"]
+- ["CSo11UIResponder", "UsersModel"]
+- ["CSo11UIResponder", "btnIniciarSesionLogin"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "feedItems"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "listTableView"]
+- ["CSo11UIResponder", "pruebaconeccion"]
+- ["CSo11UIResponder", "txtEmail"]
+- ["CSo11UIResponder", "txtPassword"]
+- ["CSo11UIResponder", "users"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "NSArray"]
+- ["PSo16UIStateRestoring", "UsersModel"]
+- ["PSo16UIStateRestoring", "btnIniciarSesionLogin"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "feedItems"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "listTableView"]
+- ["PSo16UIStateRestoring", "pruebaconeccion"]
+- ["PSo16UIStateRestoring", "txtEmail"]
+- ["PSo16UIStateRestoring", "txtPassword"]
+- ["PSo16UIStateRestoring", "users"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "NSArray"]
+- ["PSo18UITraitEnvironment", "UsersModel"]
+- ["PSo18UITraitEnvironment", "btnIniciarSesionLogin"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "feedItems"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "listTableView"]
+- ["PSo18UITraitEnvironment", "pruebaconeccion"]
+- ["PSo18UITraitEnvironment", "txtEmail"]
+- ["PSo18UITraitEnvironment", "txtPassword"]
+- ["PSo18UITraitEnvironment", "users"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "NSArray"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UITableView"]
+- ["CSo16UIViewController", "UITextField"]
+- ["CSo16UIViewController", "UsersModel"]
+- ["CSo16UIViewController", "btnIniciarSesionLogin"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "feedItems"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "listTableView"]
+- ["CSo16UIViewController", "pruebaconeccion"]
+- ["CSo16UIViewController", "txtEmail"]
+- ["CSo16UIViewController", "txtPassword"]
+- ["CSo16UIViewController", "users"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["C11Find_Me_App10UsersModel", "init"]
+- ["PSs12_Reflectable", "init"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs23ArrayLiteralConvertible"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "C11Find_Me_App19LoginViewController"
+- "CSo7NSArray"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "PSo17NSFastEnumeration"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "PSs12SequenceType"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "C11Find_Me_App10UsersModel"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "87104382f527ffcaea003855e8a0736c"

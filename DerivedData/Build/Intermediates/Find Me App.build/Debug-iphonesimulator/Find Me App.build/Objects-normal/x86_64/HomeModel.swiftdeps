@@ -1,0 +1,523 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HomeModelProtocal"
+- "HomeModel"
+provides-nominal:
+- "P11Find_Me_App17HomeModelProtocal"
+- "C11Find_Me_App9HomeModel"
+provides-member:
+- ["P11Find_Me_App17HomeModelProtocal", ""]
+- ["C11Find_Me_App9HomeModel", ""]
+provides-dynamic-lookup:
+- "urlPath"
+- "data"
+- "parseJSON"
+- "downloadItems"
+- "URLSession"
+- "URLSession"
+depends-top-level:
+- !private "NSMutableArray"
+- !private "<"
+- "NSArray"
+- "NSURLSessionDataDelegate"
+- "NSURLSession"
+- !private "NSURLSessionConfiguration"
+- "NSMutableData"
+- "NSObject"
+- !private "NSJSONSerialization"
+- "NSURLSessionTask"
+- "StringLiteralType"
+- "HomeModelProtocal"
+- !private "Void"
+- !private "UsersModel"
+- !private "print"
+- "NSError"
+- "String"
+- "NSURLSessionDataTask"
+- !private "!="
+- !private "dispatch_get_main_queue"
+- !private "NSURL"
+- !private "dispatch_async"
+- !private "NSDictionary"
+- !private "NSJSONReadingOptions"
+- "HomeModel"
+- "NSData"
+- !private "++"
+depends-member:
+- !private ["PSs9AnyObject", "JSONObjectWithData"]
+- !private ["PSs9AnyObject", "NSDictionary"]
+- !private ["PSs9AnyObject", "NSJSONReadingOptions"]
+- !private ["PSs9AnyObject", "NSJSONSerialization"]
+- !private ["PSs9AnyObject", "NSMutableArray"]
+- ["PSs9AnyObject", "NSMutableData"]
+- !private ["PSs9AnyObject", "NSURL"]
+- !private ["PSs9AnyObject", "NSURLSession"]
+- !private ["PSs9AnyObject", "NSURLSessionConfiguration"]
+- ["PSs9AnyObject", "URLSession"]
+- ["PSs9AnyObject", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSs9AnyObject", "UsersModel"]
+- !private ["PSs9AnyObject", "addObject"]
+- !private ["PSs9AnyObject", "appendData"]
+- !private ["PSs9AnyObject", "count"]
+- ["PSs9AnyObject", "data"]
+- !private ["PSs9AnyObject", "dataTaskWithURL"]
+- !private ["PSs9AnyObject", "defaultSessionConfiguration"]
+- ["PSs9AnyObject", "delegate"]
+- !private ["PSs9AnyObject", "dispatch_async"]
+- !private ["PSs9AnyObject", "dispatch_get_main_queue"]
+- ["PSs9AnyObject", "downloadItems"]
+- !private ["PSs9AnyObject", "email"]
+- !private ["PSs9AnyObject", "id"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "name"]
+- ["PSs9AnyObject", "parseJSON"]
+- !private ["PSs9AnyObject", "password"]
+- !private ["PSs9AnyObject", "print"]
+- !private ["PSs9AnyObject", "resume"]
+- !private ["PSs9AnyObject", "subscript"]
+- ["PSs9AnyObject", "urlPath"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs23ArrayLiteralConvertible", "AllowFragments"]
+- !private ["PSs23ArrayLiteralConvertible", "addObject"]
+- !private ["PSs23ArrayLiteralConvertible", "count"]
+- !private ["PSs23ArrayLiteralConvertible", "init"]
+- !private ["PSs23ArrayLiteralConvertible", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["PSs11CVarArgType", "JSONObjectWithData"]
+- !private ["PSs11CVarArgType", "NSDictionary"]
+- !private ["PSs11CVarArgType", "NSJSONReadingOptions"]
+- !private ["PSs11CVarArgType", "NSJSONSerialization"]
+- !private ["PSs11CVarArgType", "NSMutableArray"]
+- ["PSs11CVarArgType", "NSMutableData"]
+- !private ["PSs11CVarArgType", "NSURL"]
+- !private ["PSs11CVarArgType", "NSURLSession"]
+- !private ["PSs11CVarArgType", "NSURLSessionConfiguration"]
+- ["PSs11CVarArgType", "URLSession"]
+- ["PSs11CVarArgType", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSs11CVarArgType", "UsersModel"]
+- !private ["PSs11CVarArgType", "addObject"]
+- !private ["PSs11CVarArgType", "appendData"]
+- !private ["PSs11CVarArgType", "count"]
+- ["PSs11CVarArgType", "data"]
+- !private ["PSs11CVarArgType", "dataTaskWithURL"]
+- !private ["PSs11CVarArgType", "defaultSessionConfiguration"]
+- ["PSs11CVarArgType", "delegate"]
+- !private ["PSs11CVarArgType", "dispatch_async"]
+- !private ["PSs11CVarArgType", "dispatch_get_main_queue"]
+- ["PSs11CVarArgType", "downloadItems"]
+- !private ["PSs11CVarArgType", "email"]
+- !private ["PSs11CVarArgType", "id"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "name"]
+- ["PSs11CVarArgType", "parseJSON"]
+- !private ["PSs11CVarArgType", "password"]
+- !private ["PSs11CVarArgType", "print"]
+- !private ["PSs11CVarArgType", "resume"]
+- !private ["PSs11CVarArgType", "subscript"]
+- ["PSs11CVarArgType", "urlPath"]
+- ["PSs11CVarArgType", ""]
+- ["PSs28CustomDebugStringConvertible", "Some"]
+- !private ["PSs23CustomStringConvertible", "JSONObjectWithData"]
+- !private ["PSs23CustomStringConvertible", "NSDictionary"]
+- !private ["PSs23CustomStringConvertible", "NSJSONReadingOptions"]
+- !private ["PSs23CustomStringConvertible", "NSJSONSerialization"]
+- !private ["PSs23CustomStringConvertible", "NSMutableArray"]
+- ["PSs23CustomStringConvertible", "NSMutableData"]
+- !private ["PSs23CustomStringConvertible", "NSURL"]
+- !private ["PSs23CustomStringConvertible", "NSURLSession"]
+- !private ["PSs23CustomStringConvertible", "NSURLSessionConfiguration"]
+- ["PSs23CustomStringConvertible", "URLSession"]
+- ["PSs23CustomStringConvertible", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSs23CustomStringConvertible", "UsersModel"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "addObject"]
+- !private ["PSs23CustomStringConvertible", "appendData"]
+- !private ["PSs23CustomStringConvertible", "count"]
+- ["PSs23CustomStringConvertible", "data"]
+- !private ["PSs23CustomStringConvertible", "dataTaskWithURL"]
+- !private ["PSs23CustomStringConvertible", "defaultSessionConfiguration"]
+- ["PSs23CustomStringConvertible", "delegate"]
+- !private ["PSs23CustomStringConvertible", "dispatch_async"]
+- !private ["PSs23CustomStringConvertible", "dispatch_get_main_queue"]
+- ["PSs23CustomStringConvertible", "downloadItems"]
+- !private ["PSs23CustomStringConvertible", "email"]
+- !private ["PSs23CustomStringConvertible", "id"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "name"]
+- ["PSs23CustomStringConvertible", "parseJSON"]
+- !private ["PSs23CustomStringConvertible", "password"]
+- !private ["PSs23CustomStringConvertible", "print"]
+- !private ["PSs23CustomStringConvertible", "resume"]
+- !private ["PSs23CustomStringConvertible", "subscript"]
+- ["PSs23CustomStringConvertible", "urlPath"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs28DictionaryLiteralConvertible", "init"]
+- !private ["PSs28DictionaryLiteralConvertible", "subscript"]
+- !private ["PSs9Equatable", "AllowFragments"]
+- !private ["PSs9Equatable", "JSONObjectWithData"]
+- !private ["PSs9Equatable", "NSDictionary"]
+- !private ["PSs9Equatable", "NSJSONReadingOptions"]
+- !private ["PSs9Equatable", "NSJSONSerialization"]
+- !private ["PSs9Equatable", "NSMutableArray"]
+- ["PSs9Equatable", "NSMutableData"]
+- !private ["PSs9Equatable", "NSURL"]
+- !private ["PSs9Equatable", "NSURLSession"]
+- !private ["PSs9Equatable", "NSURLSessionConfiguration"]
+- ["PSs9Equatable", "URLSession"]
+- ["PSs9Equatable", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSs9Equatable", "UsersModel"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "addObject"]
+- !private ["PSs9Equatable", "appendData"]
+- !private ["PSs9Equatable", "count"]
+- ["PSs9Equatable", "data"]
+- !private ["PSs9Equatable", "dataTaskWithURL"]
+- !private ["PSs9Equatable", "defaultSessionConfiguration"]
+- ["PSs9Equatable", "delegate"]
+- !private ["PSs9Equatable", "dispatch_async"]
+- !private ["PSs9Equatable", "dispatch_get_main_queue"]
+- ["PSs9Equatable", "downloadItems"]
+- !private ["PSs9Equatable", "email"]
+- !private ["PSs9Equatable", "id"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "name"]
+- ["PSs9Equatable", "parseJSON"]
+- !private ["PSs9Equatable", "password"]
+- !private ["PSs9Equatable", "print"]
+- !private ["PSs9Equatable", "resume"]
+- !private ["PSs9Equatable", "subscript"]
+- ["PSs9Equatable", "urlPath"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "JSONObjectWithData"]
+- !private ["PSs8Hashable", "NSDictionary"]
+- !private ["PSs8Hashable", "NSJSONReadingOptions"]
+- !private ["PSs8Hashable", "NSJSONSerialization"]
+- !private ["PSs8Hashable", "NSMutableArray"]
+- ["PSs8Hashable", "NSMutableData"]
+- !private ["PSs8Hashable", "NSURL"]
+- !private ["PSs8Hashable", "NSURLSession"]
+- !private ["PSs8Hashable", "NSURLSessionConfiguration"]
+- ["PSs8Hashable", "URLSession"]
+- ["PSs8Hashable", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSs8Hashable", "UsersModel"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "addObject"]
+- !private ["PSs8Hashable", "appendData"]
+- !private ["PSs8Hashable", "count"]
+- ["PSs8Hashable", "data"]
+- !private ["PSs8Hashable", "dataTaskWithURL"]
+- !private ["PSs8Hashable", "defaultSessionConfiguration"]
+- ["PSs8Hashable", "delegate"]
+- !private ["PSs8Hashable", "dispatch_async"]
+- !private ["PSs8Hashable", "dispatch_get_main_queue"]
+- ["PSs8Hashable", "downloadItems"]
+- !private ["PSs8Hashable", "email"]
+- !private ["PSs8Hashable", "id"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "name"]
+- ["PSs8Hashable", "parseJSON"]
+- !private ["PSs8Hashable", "password"]
+- !private ["PSs8Hashable", "print"]
+- !private ["PSs8Hashable", "resume"]
+- !private ["PSs8Hashable", "subscript"]
+- ["PSs8Hashable", "urlPath"]
+- ["PSs8Hashable", ""]
+- ["C11Find_Me_App9HomeModel", "HomeModelProtocal"]
+- ["C11Find_Me_App9HomeModel", "NSData"]
+- !private ["C11Find_Me_App9HomeModel", "NSDictionary"]
+- ["C11Find_Me_App9HomeModel", "NSError"]
+- !private ["C11Find_Me_App9HomeModel", "NSJSONReadingOptions"]
+- !private ["C11Find_Me_App9HomeModel", "NSJSONSerialization"]
+- !private ["C11Find_Me_App9HomeModel", "NSMutableArray"]
+- ["C11Find_Me_App9HomeModel", "NSMutableData"]
+- !private ["C11Find_Me_App9HomeModel", "NSURL"]
+- ["C11Find_Me_App9HomeModel", "NSURLSession"]
+- !private ["C11Find_Me_App9HomeModel", "NSURLSessionConfiguration"]
+- ["C11Find_Me_App9HomeModel", "NSURLSessionDataTask"]
+- ["C11Find_Me_App9HomeModel", "NSURLSessionTask"]
+- ["C11Find_Me_App9HomeModel", "String"]
+- ["C11Find_Me_App9HomeModel", "URLSession"]
+- ["C11Find_Me_App9HomeModel", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["C11Find_Me_App9HomeModel", "UsersModel"]
+- !private ["C11Find_Me_App9HomeModel", "Void"]
+- ["C11Find_Me_App9HomeModel", "data"]
+- ["C11Find_Me_App9HomeModel", "deinit"]
+- ["C11Find_Me_App9HomeModel", "delegate"]
+- !private ["C11Find_Me_App9HomeModel", "dispatch_async"]
+- !private ["C11Find_Me_App9HomeModel", "dispatch_get_main_queue"]
+- ["C11Find_Me_App9HomeModel", "downloadItems"]
+- ["C11Find_Me_App9HomeModel", "init"]
+- ["C11Find_Me_App9HomeModel", "parseJSON"]
+- !private ["C11Find_Me_App9HomeModel", "print"]
+- ["C11Find_Me_App9HomeModel", "urlPath"]
+- ["P11Find_Me_App17HomeModelProtocal", "NSArray"]
+- ["P11Find_Me_App17HomeModelProtocal", "itemsDownloaded"]
+- !private ["SQ", "deinit"]
+- !private ["CSo7NSArray", "addObject"]
+- !private ["CSo7NSArray", "count"]
+- !private ["CSo7NSArray", "init"]
+- !private ["CSo7NSArray", "subscript"]
+- !private ["PSo8NSCoding", "addObject"]
+- !private ["PSo8NSCoding", "appendData"]
+- !private ["PSo8NSCoding", "count"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "subscript"]
+- !private ["PSo9NSCopying", "addObject"]
+- !private ["PSo9NSCopying", "appendData"]
+- !private ["PSo9NSCopying", "count"]
+- !private ["PSo9NSCopying", "defaultSessionConfiguration"]
+- !private ["PSo9NSCopying", "deinit"]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "resume"]
+- !private ["PSo9NSCopying", "subscript"]
+- !private ["CSo6NSData", "appendData"]
+- ["CSo6NSData", "init"]
+- !private ["CSo12NSDictionary", "init"]
+- !private ["CSo12NSDictionary", "subscript"]
+- !private ["PSo17NSFastEnumeration", "addObject"]
+- !private ["PSo17NSFastEnumeration", "count"]
+- !private ["PSo17NSFastEnumeration", "init"]
+- !private ["PSo17NSFastEnumeration", "subscript"]
+- !private ["VSC20NSJSONReadingOptions", "AllowFragments"]
+- !private ["CSo19NSJSONSerialization", "JSONObjectWithData"]
+- !private ["CSo14NSMutableArray", "addObject"]
+- !private ["CSo14NSMutableArray", "count"]
+- !private ["CSo14NSMutableArray", "init"]
+- !private ["CSo14NSMutableArray", "subscript"]
+- !private ["PSo16NSMutableCopying", "addObject"]
+- !private ["PSo16NSMutableCopying", "appendData"]
+- !private ["PSo16NSMutableCopying", "count"]
+- ["PSo16NSMutableCopying", "init"]
+- !private ["PSo16NSMutableCopying", "subscript"]
+- !private ["CSo13NSMutableData", "appendData"]
+- ["CSo13NSMutableData", "init"]
+- ["CSo8NSObject", "HomeModelProtocal"]
+- !private ["CSo8NSObject", "JSONObjectWithData"]
+- ["CSo8NSObject", "NSData"]
+- !private ["CSo8NSObject", "NSDictionary"]
+- ["CSo8NSObject", "NSError"]
+- !private ["CSo8NSObject", "NSJSONReadingOptions"]
+- !private ["CSo8NSObject", "NSJSONSerialization"]
+- !private ["CSo8NSObject", "NSMutableArray"]
+- ["CSo8NSObject", "NSMutableData"]
+- !private ["CSo8NSObject", "NSURL"]
+- ["CSo8NSObject", "NSURLSession"]
+- !private ["CSo8NSObject", "NSURLSessionConfiguration"]
+- ["CSo8NSObject", "NSURLSessionDataTask"]
+- ["CSo8NSObject", "NSURLSessionTask"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "URLSession"]
+- ["CSo8NSObject", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["CSo8NSObject", "UsersModel"]
+- !private ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "addObject"]
+- !private ["CSo8NSObject", "appendData"]
+- !private ["CSo8NSObject", "count"]
+- ["CSo8NSObject", "data"]
+- !private ["CSo8NSObject", "dataTaskWithURL"]
+- !private ["CSo8NSObject", "defaultSessionConfiguration"]
+- ["CSo8NSObject", "delegate"]
+- !private ["CSo8NSObject", "dispatch_async"]
+- !private ["CSo8NSObject", "dispatch_get_main_queue"]
+- ["CSo8NSObject", "downloadItems"]
+- !private ["CSo8NSObject", "email"]
+- !private ["CSo8NSObject", "id"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "name"]
+- ["CSo8NSObject", "parseJSON"]
+- !private ["CSo8NSObject", "password"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "resume"]
+- !private ["CSo8NSObject", "subscript"]
+- ["CSo8NSObject", "urlPath"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "JSONObjectWithData"]
+- !private ["PSo16NSObjectProtocol", "NSDictionary"]
+- !private ["PSo16NSObjectProtocol", "NSJSONReadingOptions"]
+- !private ["PSo16NSObjectProtocol", "NSJSONSerialization"]
+- !private ["PSo16NSObjectProtocol", "NSMutableArray"]
+- ["PSo16NSObjectProtocol", "NSMutableData"]
+- !private ["PSo16NSObjectProtocol", "NSURL"]
+- !private ["PSo16NSObjectProtocol", "NSURLSession"]
+- !private ["PSo16NSObjectProtocol", "NSURLSessionConfiguration"]
+- ["PSo16NSObjectProtocol", "URLSession"]
+- ["PSo16NSObjectProtocol", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSo16NSObjectProtocol", "UsersModel"]
+- !private ["PSo16NSObjectProtocol", "addObject"]
+- !private ["PSo16NSObjectProtocol", "appendData"]
+- !private ["PSo16NSObjectProtocol", "count"]
+- ["PSo16NSObjectProtocol", "data"]
+- !private ["PSo16NSObjectProtocol", "dataTaskWithURL"]
+- !private ["PSo16NSObjectProtocol", "defaultSessionConfiguration"]
+- ["PSo16NSObjectProtocol", "delegate"]
+- !private ["PSo16NSObjectProtocol", "dispatch_async"]
+- !private ["PSo16NSObjectProtocol", "dispatch_get_main_queue"]
+- ["PSo16NSObjectProtocol", "downloadItems"]
+- !private ["PSo16NSObjectProtocol", "email"]
+- !private ["PSo16NSObjectProtocol", "id"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "name"]
+- ["PSo16NSObjectProtocol", "parseJSON"]
+- !private ["PSo16NSObjectProtocol", "password"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "resume"]
+- !private ["PSo16NSObjectProtocol", "subscript"]
+- ["PSo16NSObjectProtocol", "urlPath"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "addObject"]
+- !private ["PSo14NSSecureCoding", "appendData"]
+- !private ["PSo14NSSecureCoding", "count"]
+- ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "subscript"]
+- !private ["CSo5NSURL", "init"]
+- !private ["CSo12NSURLSession", "dataTaskWithURL"]
+- !private ["CSo12NSURLSession", "init"]
+- !private ["CSo25NSURLSessionConfiguration", "defaultSessionConfiguration"]
+- !private ["PSo24NSURLSessionDataDelegate", "NSDictionary"]
+- !private ["PSo24NSURLSessionDataDelegate", "NSJSONReadingOptions"]
+- !private ["PSo24NSURLSessionDataDelegate", "NSJSONSerialization"]
+- !private ["PSo24NSURLSessionDataDelegate", "NSMutableArray"]
+- ["PSo24NSURLSessionDataDelegate", "NSMutableData"]
+- !private ["PSo24NSURLSessionDataDelegate", "NSURL"]
+- !private ["PSo24NSURLSessionDataDelegate", "NSURLSession"]
+- !private ["PSo24NSURLSessionDataDelegate", "NSURLSessionConfiguration"]
+- ["PSo24NSURLSessionDataDelegate", "URLSession"]
+- ["PSo24NSURLSessionDataDelegate", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSo24NSURLSessionDataDelegate", "UsersModel"]
+- !private ["PSo24NSURLSessionDataDelegate", "data"]
+- !private ["PSo24NSURLSessionDataDelegate", "delegate"]
+- !private ["PSo24NSURLSessionDataDelegate", "dispatch_async"]
+- !private ["PSo24NSURLSessionDataDelegate", "dispatch_get_main_queue"]
+- !private ["PSo24NSURLSessionDataDelegate", "parseJSON"]
+- !private ["PSo24NSURLSessionDataDelegate", "print"]
+- !private ["PSo24NSURLSessionDataDelegate", "urlPath"]
+- ["PSo24NSURLSessionDataDelegate", ""]
+- !private ["CSo20NSURLSessionDataTask", "resume"]
+- !private ["PSo20NSURLSessionDelegate", "NSDictionary"]
+- !private ["PSo20NSURLSessionDelegate", "NSJSONReadingOptions"]
+- !private ["PSo20NSURLSessionDelegate", "NSJSONSerialization"]
+- !private ["PSo20NSURLSessionDelegate", "NSMutableArray"]
+- ["PSo20NSURLSessionDelegate", "NSMutableData"]
+- !private ["PSo20NSURLSessionDelegate", "NSURL"]
+- !private ["PSo20NSURLSessionDelegate", "NSURLSession"]
+- !private ["PSo20NSURLSessionDelegate", "NSURLSessionConfiguration"]
+- ["PSo20NSURLSessionDelegate", "URLSession"]
+- ["PSo20NSURLSessionDelegate", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSo20NSURLSessionDelegate", "UsersModel"]
+- !private ["PSo20NSURLSessionDelegate", "data"]
+- !private ["PSo20NSURLSessionDelegate", "delegate"]
+- !private ["PSo20NSURLSessionDelegate", "dispatch_async"]
+- !private ["PSo20NSURLSessionDelegate", "dispatch_get_main_queue"]
+- !private ["PSo20NSURLSessionDelegate", "parseJSON"]
+- !private ["PSo20NSURLSessionDelegate", "print"]
+- !private ["PSo20NSURLSessionDelegate", "urlPath"]
+- ["PSo20NSURLSessionDelegate", ""]
+- !private ["CSo16NSURLSessionTask", "resume"]
+- !private ["PSo24NSURLSessionTaskDelegate", "NSDictionary"]
+- !private ["PSo24NSURLSessionTaskDelegate", "NSJSONReadingOptions"]
+- !private ["PSo24NSURLSessionTaskDelegate", "NSJSONSerialization"]
+- !private ["PSo24NSURLSessionTaskDelegate", "NSMutableArray"]
+- ["PSo24NSURLSessionTaskDelegate", "NSMutableData"]
+- !private ["PSo24NSURLSessionTaskDelegate", "NSURL"]
+- !private ["PSo24NSURLSessionTaskDelegate", "NSURLSession"]
+- !private ["PSo24NSURLSessionTaskDelegate", "NSURLSessionConfiguration"]
+- ["PSo24NSURLSessionTaskDelegate", "URLSession"]
+- ["PSo24NSURLSessionTaskDelegate", "URLSessionDidFinishEventsForBackgroundURLSession"]
+- !private ["PSo24NSURLSessionTaskDelegate", "UsersModel"]
+- !private ["PSo24NSURLSessionTaskDelegate", "data"]
+- !private ["PSo24NSURLSessionTaskDelegate", "delegate"]
+- !private ["PSo24NSURLSessionTaskDelegate", "dispatch_async"]
+- !private ["PSo24NSURLSessionTaskDelegate", "dispatch_get_main_queue"]
+- !private ["PSo24NSURLSessionTaskDelegate", "parseJSON"]
+- !private ["PSo24NSURLSessionTaskDelegate", "print"]
+- !private ["PSo24NSURLSessionTaskDelegate", "urlPath"]
+- ["PSo24NSURLSessionTaskDelegate", ""]
+- ["PSs21NilLiteralConvertible", "Some"]
+- !private ["PSs13OptionSetType", "AllowFragments"]
+- ["Sq", "Some"]
+- !private ["Sq", "deinit"]
+- !private ["PSs16RawRepresentable", "AllowFragments"]
+- !private ["PSs12SequenceType", "addObject"]
+- !private ["PSs12SequenceType", "count"]
+- !private ["PSs12SequenceType", "init"]
+- !private ["PSs12SequenceType", "subscript"]
+- !private ["PSs14SetAlgebraType", "AllowFragments"]
+- !private ["SS", "deinit"]
+- !private ["C11Find_Me_App10UsersModel", "email"]
+- !private ["C11Find_Me_App10UsersModel", "id"]
+- !private ["C11Find_Me_App10UsersModel", "init"]
+- !private ["C11Find_Me_App10UsersModel", "name"]
+- !private ["C11Find_Me_App10UsersModel", "password"]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs32_FileReferenceLiteralConvertible", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- ["PSs12_Reflectable", "Some"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "addObject"]
+- !private ["PSs12_Reflectable", "count"]
+- !private ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "subscript"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "PSs23ArrayLiteralConvertible"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "PSs28DictionaryLiteralConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "C11Find_Me_App9HomeModel"
+- "P11Find_Me_App17HomeModelProtocal"
+- !private "SQ"
+- !private "CSo7NSArray"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "CSo6NSData"
+- !private "CSo12NSDictionary"
+- !private "PSo17NSFastEnumeration"
+- !private "VSC20NSJSONReadingOptions"
+- !private "CSo19NSJSONSerialization"
+- !private "CSo14NSMutableArray"
+- "PSo16NSMutableCopying"
+- "CSo13NSMutableData"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- !private "CSo5NSURL"
+- !private "CSo12NSURLSession"
+- !private "CSo25NSURLSessionConfiguration"
+- "PSo24NSURLSessionDataDelegate"
+- !private "CSo20NSURLSessionDataTask"
+- "PSo20NSURLSessionDelegate"
+- !private "CSo16NSURLSessionTask"
+- "PSo24NSURLSessionTaskDelegate"
+- "PSs21NilLiteralConvertible"
+- !private "PSs13OptionSetType"
+- "Sq"
+- !private "PSs16RawRepresentable"
+- !private "PSs12SequenceType"
+- !private "PSs14SetAlgebraType"
+- !private "SS"
+- !private "C11Find_Me_App10UsersModel"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs32_FileReferenceLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "828d6e607a1729e80332ac04c880acb1"

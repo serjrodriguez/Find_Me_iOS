@@ -1,0 +1,21 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "81ceb4d43b91fd67ebb06b3d495ea94b"
+build_time: [510957328, 620027000]
+inputs:
+  "/Users/blaze/Downloads/Alamofire-master/Source/Notifications.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Error.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Validation.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/ResponseSerialization.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Timeline.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Manager.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Result.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Upload.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/ParameterEncoding.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Response.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/MultipartFormData.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Request.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Alamofire.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/ServerTrustPolicy.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/NetworkReachabilityManager.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Download.swift": [509909652, 0]
+  "/Users/blaze/Downloads/Alamofire-master/Source/Stream.swift": [509909652, 0]

@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "f1312a9e78289b0831b4bc86c34aabd3"
+build_time: [510973379, 809201000]
+inputs:
+  "/Users/blaze/Documents/Xcode Projects/Find Me App/Find Me App/UsersModel.swift": [510969122, 0]
+  "/Users/blaze/Documents/Xcode Projects/Find Me App/RegistroViewController.swift": [510955891, 0]
+  "/Users/blaze/Documents/Xcode Projects/Find Me App/Find Me App/AppDelegate.swift": [510950034, 0]
+  "/Users/blaze/Documents/Xcode Projects/Find Me App/Find Me App/LoginViewController.swift": [510973379, 0]
+  "/Users/blaze/Documents/Xcode Projects/Find Me App/Find Me App/ViewController.swift": [510957147, 0]
+  "/Users/blaze/Documents/Xcode Projects/Find Me App/Find Me App/HomeModel.swift": [510973290, 0]

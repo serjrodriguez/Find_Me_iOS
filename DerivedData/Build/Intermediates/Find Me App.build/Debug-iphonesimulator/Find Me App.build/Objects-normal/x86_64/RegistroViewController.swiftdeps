@@ -1,0 +1,209 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RegistroViewController"
+provides-nominal:
+- "C11Find_Me_App22RegistroViewController"
+provides-member:
+- ["C11Find_Me_App22RegistroViewController", ""]
+provides-dynamic-lookup:
+- "txtNombreUsuarioRegistro"
+- "btnCrearCuenta"
+- "txtPasswordRegistro"
+- "didReceiveMemoryWarning"
+- "txtEmailRegistro"
+- "viewDidLoad"
+- "txtRepitePassword"
+depends-top-level:
+- "UIViewController"
+- "UIButton"
+- "RegistroViewController"
+- "UITextField"
+depends-member:
+- ["PSs9AnyObject", "btnCrearCuenta"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "txtEmailRegistro"]
+- ["PSs9AnyObject", "txtNombreUsuarioRegistro"]
+- ["PSs9AnyObject", "txtPasswordRegistro"]
+- ["PSs9AnyObject", "txtRepitePassword"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "btnCrearCuenta"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "txtEmailRegistro"]
+- ["PSs11CVarArgType", "txtNombreUsuarioRegistro"]
+- ["PSs11CVarArgType", "txtPasswordRegistro"]
+- ["PSs11CVarArgType", "txtRepitePassword"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "btnCrearCuenta"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "txtEmailRegistro"]
+- ["PSs23CustomStringConvertible", "txtNombreUsuarioRegistro"]
+- ["PSs23CustomStringConvertible", "txtPasswordRegistro"]
+- ["PSs23CustomStringConvertible", "txtRepitePassword"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "btnCrearCuenta"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "txtEmailRegistro"]
+- ["PSs9Equatable", "txtNombreUsuarioRegistro"]
+- ["PSs9Equatable", "txtPasswordRegistro"]
+- ["PSs9Equatable", "txtRepitePassword"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "btnCrearCuenta"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "txtEmailRegistro"]
+- ["PSs8Hashable", "txtNombreUsuarioRegistro"]
+- ["PSs8Hashable", "txtPasswordRegistro"]
+- ["PSs8Hashable", "txtRepitePassword"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "btnCrearCuenta"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "txtEmailRegistro"]
+- ["PSo8NSCoding", "txtNombreUsuarioRegistro"]
+- ["PSo8NSCoding", "txtPasswordRegistro"]
+- ["PSo8NSCoding", "txtRepitePassword"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "btnCrearCuenta"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "txtEmailRegistro"]
+- ["PSo26NSExtensionRequestHandling", "txtNombreUsuarioRegistro"]
+- ["PSo26NSExtensionRequestHandling", "txtPasswordRegistro"]
+- ["PSo26NSExtensionRequestHandling", "txtRepitePassword"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UITextField"]
+- ["CSo8NSObject", "btnCrearCuenta"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "txtEmailRegistro"]
+- ["CSo8NSObject", "txtNombreUsuarioRegistro"]
+- ["CSo8NSObject", "txtPasswordRegistro"]
+- ["CSo8NSObject", "txtRepitePassword"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "btnCrearCuenta"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "txtEmailRegistro"]
+- ["PSo16NSObjectProtocol", "txtNombreUsuarioRegistro"]
+- ["PSo16NSObjectProtocol", "txtPasswordRegistro"]
+- ["PSo16NSObjectProtocol", "txtRepitePassword"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C11Find_Me_App22RegistroViewController", "UIButton"]
+- ["C11Find_Me_App22RegistroViewController", "UITextField"]
+- ["C11Find_Me_App22RegistroViewController", "btnCrearCuenta"]
+- ["C11Find_Me_App22RegistroViewController", "deinit"]
+- ["C11Find_Me_App22RegistroViewController", "didReceiveMemoryWarning"]
+- ["C11Find_Me_App22RegistroViewController", "init"]
+- ["C11Find_Me_App22RegistroViewController", "txtEmailRegistro"]
+- ["C11Find_Me_App22RegistroViewController", "txtNombreUsuarioRegistro"]
+- ["C11Find_Me_App22RegistroViewController", "txtPasswordRegistro"]
+- ["C11Find_Me_App22RegistroViewController", "txtRepitePassword"]
+- ["C11Find_Me_App22RegistroViewController", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "btnCrearCuenta"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "txtEmailRegistro"]
+- ["PSo21UIAppearanceContainer", "txtNombreUsuarioRegistro"]
+- ["PSo21UIAppearanceContainer", "txtPasswordRegistro"]
+- ["PSo21UIAppearanceContainer", "txtRepitePassword"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "btnCrearCuenta"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "txtEmailRegistro"]
+- ["PSo18UIContentContainer", "txtNombreUsuarioRegistro"]
+- ["PSo18UIContentContainer", "txtPasswordRegistro"]
+- ["PSo18UIContentContainer", "txtRepitePassword"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "btnCrearCuenta"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "txtEmailRegistro"]
+- ["PSo18UIFocusEnvironment", "txtNombreUsuarioRegistro"]
+- ["PSo18UIFocusEnvironment", "txtPasswordRegistro"]
+- ["PSo18UIFocusEnvironment", "txtRepitePassword"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UITextField"]
+- ["CSo11UIResponder", "btnCrearCuenta"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "txtEmailRegistro"]
+- ["CSo11UIResponder", "txtNombreUsuarioRegistro"]
+- ["CSo11UIResponder", "txtPasswordRegistro"]
+- ["CSo11UIResponder", "txtRepitePassword"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "btnCrearCuenta"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "txtEmailRegistro"]
+- ["PSo16UIStateRestoring", "txtNombreUsuarioRegistro"]
+- ["PSo16UIStateRestoring", "txtPasswordRegistro"]
+- ["PSo16UIStateRestoring", "txtRepitePassword"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "btnCrearCuenta"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "txtEmailRegistro"]
+- ["PSo18UITraitEnvironment", "txtNombreUsuarioRegistro"]
+- ["PSo18UITraitEnvironment", "txtPasswordRegistro"]
+- ["PSo18UITraitEnvironment", "txtRepitePassword"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UITextField"]
+- ["CSo16UIViewController", "btnCrearCuenta"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "txtEmailRegistro"]
+- ["CSo16UIViewController", "txtNombreUsuarioRegistro"]
+- ["CSo16UIViewController", "txtPasswordRegistro"]
+- ["CSo16UIViewController", "txtRepitePassword"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C11Find_Me_App22RegistroViewController"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "c7dee681c235e5eb21fbd0723f730539"
